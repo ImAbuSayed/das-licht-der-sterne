@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-licht-der-sterne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Das Licht der Sterne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-licht-der-sterne/) |
+| **Get License** | [Official Music Licensing for Das Licht der Sterne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-licht-der-sterne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1a01f636f7310a2168aac8e207ed675e6a4da8c8dc99440634d1ec197c17b245` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
