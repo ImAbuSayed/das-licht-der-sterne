@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-licht-der-sterne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Das Licht der Sterne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-licht-der-sterne/) |
+| **Get License** | [Get a Licensing Quote for Das Licht der Sterne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-licht-der-sterne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' durch die City im Drop-Top, doch such' nur dein Licht
+> Die ganze Szene ist eiskalt, Babe, aber du bist es nicht
+> Deine Blicke zieh'n mich an wie ein Magnet in der Nacht
+> Hast in mir den ganzen Wahnsinn und die Sehnsucht entfacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
